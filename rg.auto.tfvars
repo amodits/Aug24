@@ -13,7 +13,7 @@ rgs={
         }
     }
 
-         rg4={
+         rg3={
         name="prod-rg1400"
         location="west us"
         tags={
@@ -24,7 +24,7 @@ rgs={
          }
 
        
-         rg5={
+         rg4={
         name="prod-rg1500"
         location="west us"
         tags={
