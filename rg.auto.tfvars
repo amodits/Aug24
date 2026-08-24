@@ -12,4 +12,13 @@ rgs={
             Project="DLF"
         }
     }
+
+         rg3={
+        name="prod-rg1400"
+        location="west us"
+        tags={
+            Requested_by="Nagasree  "
+            Environment="PROD"
+            Project="DLF"
+        }
 }
