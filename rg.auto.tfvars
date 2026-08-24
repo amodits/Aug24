@@ -13,13 +13,24 @@ rgs={
         }
     }
 
-         rg3={
+         rg4={
         name="prod-rg1400"
         location="west us"
         tags={
-            Requested_by="Nagasree  "
+            Requested_by="Naga"
             Environment="PROD"
             Project="DLF"
         }
          }
+
+       
+         rg5={
+        name="prod-rg1500"
+        location="west us"
+        tags={
+            Requested_by="Naga"
+            Environment="PROD"
+            Project="DLF"
+        }
+         }  
 }
