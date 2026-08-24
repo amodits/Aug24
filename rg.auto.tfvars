@@ -33,13 +33,13 @@ rgs={
             Project="DLF"
         }
          }  
-         rg5={
-        name="prod-rg1600"
+                  rg5={
+        name="prod-rg1700"
         location="west us"
         tags={
             Requested_by="Naga"
             Environment="PROD"
             Project="DLF"
         }
-         }
+         }  
 }
