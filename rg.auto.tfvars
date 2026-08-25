@@ -42,14 +42,4 @@ rgs={
             Project="DLF"
         }
          }  
-
-                        rg6={
-        name="prod-rg1800"
-        location="west us"
-        tags={
-            Requested_by="Naga"
-            Environment="PROD"
-            Project="DLF"
-        }
-         }  
 }
