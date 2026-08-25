@@ -22,5 +22,35 @@ rgs={
             Project="DLF"
         }
          }
+
+       
+         rg4={
+        name="prod-rg1500"
+        location="west us"
+        tags={
+            Requested_by="Naga"
+            Environment="PROD"
+            Project="DLF"
+        }
+         }  
+                  rg5={
+        name="prod-rg1700"
+        location="west us"
+        tags={
+            Requested_by="Naga"
+            Environment="PROD"
+            Project="DLF"
+        }
+         }  
+
+                     rg6={
+        name="prod-rg1800"
+        location="west us"
+        tags={
+            Requested_by="Naga"
+            Environment="PROD"
+            Project="DLF"
+        }
+         }  
       
 }
